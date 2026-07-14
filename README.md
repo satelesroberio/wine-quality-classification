@@ -92,5 +92,5 @@ implicações para o processo produtivo estão no notebook
 ## Entregáveis
 
 * Repositório GitHub com os códigos utilizados (este repositório).
-* Apresentação executiva com o storytelling da análise exploratória.
-* Vídeo executivo de até 5 minutos, em linguagem não técnica.
+* [Apresentação executiva](results/apresentacao_executiva.pptx) ([PDF](results/apresentacao_executiva.pdf)) com o storytelling da análise exploratória e os resultados, em linguagem não técnica - inclui notas do apresentador em cada slide como roteiro de narração.
+* Vídeo executivo de até 5 minutos, em linguagem não técnica (gravação pendente, a partir da apresentação acima).
