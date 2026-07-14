@@ -1,0 +1,8 @@
+,valor
+n_amostras,6497
+pct_nulos,0.0
+pct_duplicatas,18.12
+pct_alta_qualidade,19.66
+pct_alta_qualidade_tinto,13.57
+pct_alta_qualidade_branco,21.64
+top_corr_feature,alcohol
